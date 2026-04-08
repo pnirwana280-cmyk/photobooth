@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    font-family:Cambria;
+    font-weight: bold;
+    color: blue;
+
+
+}body {background-color: burlywood}
+
+ul {list-style-type:none;
+color:azure;
+text-align:center;
+}
+Li {display:inline;
+}
+
+p{
+    text-align:left;
+    color:azure;
+}
+
+#p2{
+    text-align:left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:large;
+    color:azure;
+}
